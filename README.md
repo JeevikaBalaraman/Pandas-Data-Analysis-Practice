@@ -174,4 +174,3 @@ Skills: Python | SQL | Excel | Power BI | Tableau
 
 ---
 
-Tell me what next 😎
